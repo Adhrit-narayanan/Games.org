@@ -1,0 +1,15 @@
+#man{
+  font-style: italic;
+  color: blue;
+}
+body{
+  text-align: center;
+  background-color: cyan;
+}
+#human{
+  height: 100px;
+  width: 100px;
+}
+#games{
+  background-color: darkseagreen;
+}
